@@ -1,4 +1,4 @@
-# STUDI-KASUS-6-PROGRAM-PEMBELIAN-BARANG-
+# STUDI KASUS 6 PROGRAM PEMBELIAN BARANG 
 Nama Anggota Kelompok:
 1. Karel Desvakyudho - (G1A025040)
 2. Jastin Caniago    - (G1A025062)
